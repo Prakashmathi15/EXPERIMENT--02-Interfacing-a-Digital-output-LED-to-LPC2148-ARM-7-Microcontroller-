@@ -1,6 +1,6 @@
 # EXPERIMENT--02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller-
 ## Interfacing a Digital output (LED) to LPC2148 ARM 7 Microcontroller 
-
+ 
 ## Aim: To Interface a Digital output (LED) to LPC2148 ARM 7 and write a blink code 
 ## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ## Theory 
