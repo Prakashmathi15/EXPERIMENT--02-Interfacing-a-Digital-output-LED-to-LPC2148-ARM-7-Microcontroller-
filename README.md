@@ -140,13 +140,16 @@ int main()
 ```
 ## Output screen shots :
 ## LED OFF:
-![output](op1.png)
+![image](https://github.com/user-attachments/assets/14e779af-5b43-49bd-9424-49262066e788)
+
 
 ## LED ON:
-![output](op2.png)
+![image](https://github.com/user-attachments/assets/e91a76d4-6362-4441-83bb-cf7480389b24)
+
 
 ## Circuit Diagram:
-![output](op3.png)
+![image](https://github.com/user-attachments/assets/00363ec8-d020-49bc-b0b5-8d83b8b7f1d3)
+
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
